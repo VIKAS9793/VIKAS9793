@@ -1,10 +1,5 @@
 # Hi, I'm Vikas Sahani
 
-<p align="center">
-  <img src="banner.png" alt="Vikas Sahani Banner" width="100%" />![1000018089](https://github.com/user-attachments/assets/0deb8235-2b9d-4048-929a-bc58cde80d19)
-
-</p>
-
 ### Finance Professional | AI Learner | Project Builder
 
 I'm a finance professional with over 3 years of experience in banking and financial services. I’ve recently been exploring how AI tools can help solve real business problems — especially in areas like customer insight, risk, and performance tracking.
