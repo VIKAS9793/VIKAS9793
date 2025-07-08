@@ -1,4 +1,4 @@
-# ⚙️ Vikas Sahani — AI-Native Builder | ML System Designer | BSc Botany + Ex-Finance
+# ⚙️ Vikas Sahani — AI-Native Builder | ML System Designer | BSc Botany + Finance
 
 👋 Hi, I'm Vikas — a BSc graduate in Botany with 4+ years in finance, now building AI-native solutions to solve domain-aligned problems. I design explainable, offline-first AI systems by combining deep learning engineering practices with real-world awareness.
 
