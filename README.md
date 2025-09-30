@@ -222,6 +222,41 @@ pie title User Segments
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
+
+<a href="https://github.com/VIKAS9793/EduVault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=EduVault&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+**Offline-First Educational Platform**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+pie title Feature Priority
+    "Offline Operation" : 40
+    "Voice Interface" : 30
+    "NCERT Integration" : 30
+```
+
+**🌾 Mission:** Democratizing quality education for rural India with 100% offline operation  
+**📱 Innovation:** Voice-first interface with Hindi/English support, WCAG 2.1 AA compliant  
+**🎯 Target Market:** 150M+ students in low-connectivity regions, 10M+ disabled learners  
+**🔧 Architecture:** PWA with IndexedDB, Service Workers, Web Speech API, <200MB footprint
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Empty cell for grid balance -->
+
+</td>
+</tr>
 </table>
 
 <!-- Live Project Metrics -->
@@ -826,6 +861,7 @@ timeline
 | **MoatMetrics** | 🟢 Active | <img src="https://progress-bar.xyz/85/?width=150&color=3498db" /> | Beta Customer Onboarding |
 | **KrishiSahayak** | 🟡 Testing | <img src="https://progress-bar.xyz/60/?width=150&color=f39c12" /> | Rural Field Pilots |
 | **AI Interview Simulator** | 🟢 Live | <img src="https://progress-bar.xyz/95/?width=150&color=1abc9c" /> | Enterprise Integration |
+| **EduVault** | 🟢 POC Complete | <img src="https://progress-bar.xyz/80/?width=150&color=9b59b6" /> | Government Partnership |
 
 </div>
 
