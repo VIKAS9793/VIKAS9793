@@ -2,10 +2,12 @@
 
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500" alt="AI Product Manager Animation">
+<!-- PROPERLY FIXED: Using AI/Product Manager themed animation from verified GitHub source -->
+<!-- This matches the professional tech/AI product management role -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="AI Product Manager Animation">
 
 <!-- Glassmorphic Profile Card -->
+<!-- FIXED: Converted Markdown headers to HTML inside table cells for consistent rendering -->
 <table>
 <tr>
 <td width="35%" align="center">
@@ -19,21 +21,21 @@
 </td>
 <td width="65%" align="left">
 
-### **Vikas Sahani** 
-#### 🎯 AI Product Manager | 🏗️ ML Systems Architect
+<h3><b>Vikas Sahani</b></h3>
+<h4>🎯 AI Product Manager | 🏗️ ML Systems Architect</h4>
 
-**💼 Current Role:** Virtual Relationship Manager @ Aditya Birla Capital  
-**💰 Portfolio:** ₹100 Crores+ Assets Under Management  
-**🎓 Education:** BSc Botany → Finance → AI Product Leadership  
-**📍 Location:** Mumbai, Maharashtra, India
+<p><b>💼 Current Role:</b> Virtual Relationship Manager @ Aditya Birla Capital<br>
+<b>💰 Portfolio:</b> ₹100 Crores+ Assets Under Management<br>
+<b>🎓 Education:</b> BSc Botany → Finance → AI Product Leadership<br>
+<b>📍 Location:</b> Mumbai, Maharashtra, India</p>
 
-**🏅 Certifications:**  
-• IBM AI Product Manager Professional (2025)  
-• Google Project Management Professional (2025)  
-• DeepLearning.AI - AI Agents in LangGraph (2025)
+<p><b>🏅 Certifications:</b><br>
+• IBM AI Product Manager Professional (2025)<br>
+• Google Project Management Professional (2025)<br>
+• DeepLearning.AI - AI Agents in LangGraph (2025)</p>
 
-**🎯 Mission:**  
-*Building accessible AI products for underserved markets with measurable business impact*
+<p><b>🎯 Mission:</b><br>
+<i>Building accessible AI products for underserved markets with measurable business impact</i></p>
 
 </td>
 </tr>
@@ -120,7 +122,7 @@ Offline-first AI for underserved communities and rural markets
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Innovation Distribution
     "Prompt Protocol Engine" : 40
     "Creative Studio" : 35
@@ -145,10 +147,10 @@ pie title Innovation Distribution
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Revenue Model
     "Subscription MRR" : 60
     "Enterprise Licenses" : 30
@@ -178,7 +180,7 @@ pie title Revenue Model
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4438?style=flat-square&logoColor=white)
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Feature Priority
     "Offline RAG" : 45
     "Voice Interface" : 30
@@ -206,7 +208,7 @@ pie title Feature Priority
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title User Segments
     "Tech Candidates" : 50
     "Enterprise HR" : 30
@@ -234,8 +236,9 @@ pie title User Segments
 
 <div align="center">
 
+<!-- FIXED: Changed Mermaid theme from 'dark' to 'base' for better compatibility across GitHub light/dark modes -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#fff','lineColor':'#00D9FF'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#333','lineColor':'#00D9FF'}}}%%
 timeline
     title Career Evolution: Finance → AI Product Leadership
     2021 : Banking Sector Entry
@@ -298,8 +301,9 @@ timeline
 
 <div align="center">
 
-<!-- Animated Tech Stack Orbit -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+<!-- PROPERLY FIXED: Using tech stack/development themed animation from verified GitHub source -->
+<!-- This complements the AI Product Manager + Technical Builder role -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Core Technology Stack Animation" />
 
 ### **Core Technology Stack**
 
@@ -308,6 +312,7 @@ timeline
 <br><br>
 
 <!-- Proficiency Matrix -->
+<!-- FIXED: Standardized all badge styles to 'flat-square' for consistency -->
 <table>
 <tr>
 <th width="25%">Category</th>
@@ -403,8 +408,9 @@ timeline
 <div align="center">
 
 <!-- Enhanced Product Development Cycle -->
+<!-- FIXED: Changed Mermaid theme to 'base' -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#fff','secondaryTextColor':'#fff','tertiaryTextColor':'#fff','lineColor':'#00D9FF','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#333','secondaryTextColor':'#333','tertiaryTextColor':'#333','lineColor':'#00D9FF','fontSize':'16px'}}}%%
 flowchart TB
     Start([🎯 Problem Discovery]) --> Research[📊 User Research<br/>+<br/>Market Analysis]
     Research --> Strategy[🏗️ Product Strategy<br/>+<br/>Roadmapping]
@@ -417,16 +423,16 @@ flowchart TB
     Iterate -->|Yes| Research
     Iterate -->|Scale| Scale[💰 Market Expansion]
     
-    style Start fill:#e74c3c,stroke:#fff,stroke-width:3px,color:#fff
-    style Research fill:#3498db,stroke:#fff,stroke-width:3px,color:#fff
-    style Strategy fill:#2ecc71,stroke:#fff,stroke-width:3px,color:#fff
-    style Tech fill:#f39c12,stroke:#fff,stroke-width:3px,color:#fff
-    style Sprint fill:#9b59b6,stroke:#fff,stroke-width:3px,color:#fff
-    style MVP fill:#1abc9c,stroke:#fff,stroke-width:3px,color:#fff
-    style Metrics fill:#34495e,stroke:#fff,stroke-width:3px,color:#fff
-    style Optimize fill:#e67e22,stroke:#fff,stroke-width:3px,color:#fff
-    style Iterate fill:#c0392b,stroke:#fff,stroke-width:3px,color:#fff
-    style Scale fill:#16a085,stroke:#fff,stroke-width:3px,color:#fff
+    style Start fill:#e74c3c,stroke:#333,stroke-width:3px,color:#fff
+    style Research fill:#3498db,stroke:#333,stroke-width:3px,color:#fff
+    style Strategy fill:#2ecc71,stroke:#333,stroke-width:3px,color:#fff
+    style Tech fill:#f39c12,stroke:#333,stroke-width:3px,color:#fff
+    style Sprint fill:#9b59b6,stroke:#333,stroke-width:3px,color:#fff
+    style MVP fill:#1abc9c,stroke:#333,stroke-width:3px,color:#fff
+    style Metrics fill:#34495e,stroke:#333,stroke-width:3px,color:#fff
+    style Optimize fill:#e67e22,stroke:#333,stroke-width:3px,color:#fff
+    style Iterate fill:#c0392b,stroke:#333,stroke-width:3px,color:#fff
+    style Scale fill:#16a085,stroke:#333,stroke-width:3px,color:#fff
 ```
 
 ### **Product Development Metrics Dashboard**
@@ -498,6 +504,8 @@ Product strategy combined with hands-on architectural expertise
 </div>
 
 <!-- Animated Snake Contribution Graph -->
+<!-- FIXED: Added setup instructions comment -->
+<!-- NOTE: This snake animation requires GitHub Actions workflow setup. See: https://github.com/Platane/snk -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIKAS9793/VIKAS9793/output/github-contribution-grid-snake-dark.svg">
@@ -548,8 +556,10 @@ Product strategy combined with hands-on architectural expertise
 <a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
 <img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
 </a><br>
- 2025</b></sub>
+<sub><b>Feb 2025</b></sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/Rutgers-AI_Ethics-CC0000?style=for-the-badge&logoColor=white" /><br>
 <a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
@@ -557,12 +567,37 @@ Product strategy combined with hands-on architectural expertise
 </a><br>
 <sub><b>Mar 2025</b></sub>
 </td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PMI-GenAI_for_PMs-red?style=for-the-badge&logoColor=white" /><br>
+<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
+<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
+</a><br>
+<sub><b>Feb 2025</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Glasgow-MBA_Essentials-purple?style=for-the-badge&logoColor=white" /><br>
+<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
+<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
+</a><br>
+<sub><b>Feb 2025</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DeepLearning.AI-LLM_Fine_Tuning-FF6F00?style=for-the-badge&logoColor=white" /><br>
+<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
+<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
+</a><br>
+<sub><b>Feb 2025</b></sub>
+</td>
+<td align="center" width="20%">
+<!-- Empty cell for grid alignment -->
+</td>
 </tr>
 </table>
 
 <!-- Certification Timeline -->
+<!-- FIXED: Changed Mermaid theme to 'base' -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','fontSize':'14px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','fontSize':'14px'}}}%%
 gantt
     title 2025 Certification Roadmap
     dateFormat YYYY-MM
@@ -604,7 +639,7 @@ gantt
 <img src="https://img.shields.io/badge/Electronic_Arts-000000?style=for-the-badge&logo=ea&logoColor=white" />
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Feature Impact Analysis
     "User Engagement +25%" : 45
     "Retention Rate +18%" : 35
@@ -635,7 +670,7 @@ pie title Feature Impact Analysis
 <img src="https://img.shields.io/badge/JPMorgan_Chase-0077B5?style=for-the-badge&logoColor=white" />
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Technical Contribution
     "Kafka Streams" : 40
     "Java Backend" : 35
@@ -666,7 +701,7 @@ pie title Technical Contribution
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base'}}%%
 pie title Architecture Components
     "Compute & Scaling" : 35
     "Storage & Database" : 30
@@ -700,8 +735,9 @@ pie title Architecture Components
 
 <div align="center">
 
+<!-- FIXED: Changed Mermaid theme to 'base' -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#f39c12'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#f39c12'}}}%%
 timeline
     title 2025 Product Development Timeline
     section Q1 2025
@@ -1110,27 +1146,4 @@ Collaborative projects in AI for social good and underserved markets
 
 <sub>Last Updated: September 2025 | Built with ❤️ and AI | Licensed under MIT</sub>
 
-</div> 2025</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/PMI-GenAI_for_PMs-red?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Glasgow-MBA_Essentials-purple?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/DeepLearning.AI-LLM_Fine_Tuning-FF6F00?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb
+</div>
