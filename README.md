@@ -103,18 +103,6 @@ Offline-first AI for underserved communities and rural markets
 ## 🏆 Featured AI Product Portfolio
 
 <div align="center">
-
-<!-- Project Showcase with Metrics -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [�🇳 IndiaAI IDP Platform](https://github.com/VIKAS9793/IndiaAI-IDP-Platform) ⭐ NEW
-
-<a href="https://github.com/VIKAS9793/IndiaAI-IDP-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=IndiaAI-IDP-Platform&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
 **India's First Sovereign Document Intelligence Platform**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
