@@ -4,7 +4,7 @@
 
 <!-- PROPERLY FIXED: Using AI/Product Manager themed animation from verified GitHub source -->
 <!-- This matches the professional tech/AI product management role -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="AI Product Manager Animation">
+<img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager">
 
 <!-- Glassmorphic Profile Card -->
 <!-- FIXED: Converted Markdown headers to HTML inside table cells for consistent rendering -->
@@ -29,10 +29,7 @@
 <b>🎓 Education:</b> BSc Botany → Finance → AI Product Leadership<br>
 <b>📍 Location:</b> Mumbai, Maharashtra, India</p>
 
-<p><b>🏅 Certifications:</b><br>
-• IBM AI Product Manager Professional (2025)<br>
-• Google Project Management Professional (2025)<br>
-• DeepLearning.AI - AI Agents in LangGraph (2025)</p>
+
 
 <p><b>🎯 Mission:</b><br>
 <i>Building accessible AI products for underserved markets with measurable business impact</i></p>
@@ -355,7 +352,7 @@ timeline
 
 <!-- PROPERLY FIXED: Using tech stack/development themed animation from verified GitHub source -->
 <!-- This complements the AI Product Manager + Technical Builder role -->
-<img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager" />
+
 
 ### **Core Technology Stack**
 
@@ -558,6 +555,30 @@ Product strategy combined with hands-on architectural expertise
 <a href="https://www.theforage.com/profile">
 <img src="https://img.shields.io/badge/View_All_Certificates-Verify-success?style=for-the-badge&logo=checkmarx" />
 </a>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date | Verification |
+|:--------------|:-------|:-----|:-------------|
+| **People Management Essentials** | Google | Nov 2025 | [Verify](https://www.linkedin.com/in/vikas-sahani-727420358/details/certifications/) |
+| **User Experience Design** | Georgia Tech | Oct 2025 | [Verify](https://www.linkedin.com/in/vikas-sahani-727420358/details/certifications/) |
+| **Project Management Professional** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **AI Essentials** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **Prompting Essentials** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **Predictive Project Management** | PMI | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **Gen AI for Project Managers** | PMI | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **AI Product Manager** | IBM | Jan 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **AI Agents in LangGraph** | DeepLearning.AI | Jan 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **GenAI for SWEs** | Vanderbilt | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **AI Ethics** | Rutgers | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **MBA Essentials** | Glasgow | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **LLM Fine-Tuning** | DeepLearning.AI | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
 
 </div>
 
