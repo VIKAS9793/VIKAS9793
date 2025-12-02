@@ -109,7 +109,37 @@ Offline-first AI for underserved communities and rural markets
 <tr>
 <td width="50%" valign="top">
 
-### [🎨 CharacterCraft Pro](https://github.com/VIKAS9793/charactercraft-pro)
+### [�🇳 IndiaAI IDP Platform](https://github.com/VIKAS9793/IndiaAI-IDP-Platform) ⭐ NEW
+
+<a href="https://github.com/VIKAS9793/IndiaAI-IDP-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=IndiaAI-IDP-Platform&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+**India's First Sovereign Document Intelligence Platform**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=flat-square&logoColor=white)
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+pie title Architecture Innovation
+    "Modular Design" : 35
+    "DPDP Compliance" : 30
+    "HITL Workflow" : 35
+```
+
+**🎯 Product Vision:** Sovereign-by-design AI for government departments, 100% offline  
+**💡 Innovation:** Zero cloud dependencies, DPDP Act 2023 native governance  
+**📊 Market Stage:** Pilot-ready, District Collector deployment approved  
+**🔧 Features:** 95-98% OCR accuracy, Human-in-the-Loop review, modular scale (SQLite→PostgreSQL)
+
+**📈 Impact:** Protecting citizen data sovereignty for 1B+ Indians
+
+</td>
+<td width="50%" valign="top">
+
+### [�🎨 CharacterCraft Pro](https://github.com/VIKAS9793/charactercraft-pro)
 
 <a href="https://github.com/VIKAS9793/charactercraft-pro">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=charactercraft-pro&theme=tokyonight&hide_border=true&border_radius=15" />
@@ -135,6 +165,8 @@ pie title Innovation Distribution
 **🔧 Features:** Multi-model fusion, progressive enhancement, version control
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [📊 MoatMetrics](https://github.com/VIKAS9793/moatmetrics)
