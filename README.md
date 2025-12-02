@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="35%" align="center">
-<img src="https://github.com/VIKAS9793.png?size=180" width="180" style="border-radius: 50%;" alt="Vikas Sahani"/>
+
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D9FF?style=for-the-badge&logoColor=white)](https://vikas9793.github.io/)
