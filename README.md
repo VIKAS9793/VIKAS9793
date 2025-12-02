@@ -529,12 +529,8 @@ Product strategy combined with hands-on architectural expertise
 
 <div align="center">
 
-<!-- Primary Stats Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=VIKAS9793&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&custom_title=Performance%20Metrics&include_all_commits=true&count_private=true&hide=contribs" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKAS9793&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B6B&ring=4FC3F7&currStreakLabel=4FC3F7" width="49%" />
-
-<!-- Language Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKAS9793&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&custom_title=Tech%20Stack%20Distribution&hide=jupyter%20notebook,html" width="41%" />
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKAS9793&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B6B&ring=4FC3F7&currStreakLabel=4FC3F7" width="100%" />
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIKAS9793&theme=tokyonight" width="100%" />
