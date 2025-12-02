@@ -279,9 +279,6 @@ pie title Feature Priority
 </tr>
 </table>
 
-<!-- Live Project Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIKAS9793&theme=tokyonight&utcOffset=5.3" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIKAS9793&theme=tokyonight" width="48%" />
 
 </div>
 
@@ -358,7 +355,7 @@ timeline
 
 <!-- PROPERLY FIXED: Using tech stack/development themed animation from verified GitHub source -->
 <!-- This complements the AI Product Manager + Technical Builder role -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Core Technology Stack Animation" />
+<img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager" />
 
 ### **Core Technology Stack**
 
@@ -490,15 +487,7 @@ flowchart TB
     style Scale fill:#16a085,stroke:#333,stroke-width:3px,color:#fff
 ```
 
-### **Product Development Metrics Dashboard**
 
-| Phase | Key Performance Indicator | Target | Achievement |
-|:-----:|:--------------------------|:------:|:-----------:|
-| 🎯 **Discovery** | User Interviews Completed | 50 | <img src="https://progress-bar.xyz/124/?scale=50&width=200&color=2ecc71&suffix=%20(62)" /> |
-| 📊 **Strategy** | Total Addressable Market | $10M | <img src="https://progress-bar.xyz/120/?scale=10&width=200&color=3498db&suffix=M%20($12M)" /> |
-| ⚡ **Development** | Sprint Velocity (Story Points) | 40 pts | <img src="https://progress-bar.xyz/112/?scale=40&width=200&color=f39c12&suffix=%20(45)" /> |
-| 🚀 **Launch** | Beta Users Acquired | 500 | <img src="https://progress-bar.xyz/130/?scale=500&width=200&color=9b59b6&suffix=%20(650)" /> |
-| 📈 **Growth** | Month-over-Month Growth | 15% | <img src="https://progress-bar.xyz/120/?scale=15&width=200&color=1abc9c&suffix=%25%20(18%25)" /> |
 
 ### **Core Product Principles**
 
@@ -555,232 +544,20 @@ Product strategy combined with hands-on architectural expertise
 
 <!-- Trophy Showcase -->
 <img src="https://github-profile-trophy.vercel.app/?username=VIKAS9793&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
-
-</div>
-
-<!-- Animated Snake Contribution Graph -->
-<!-- FIXED: Added setup instructions comment -->
-<!-- NOTE: This snake animation requires GitHub Actions workflow setup. See: https://github.com/Platane/snk -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIKAS9793/VIKAS9793/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIKAS9793/VIKAS9793/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VIKAS9793/VIKAS9793/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏅 Professional Certifications & Credentials
-
-<div align="center">
-
-<!-- Certification Verification System -->
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/IBM-AI_Product_Manager-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Jan 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Google-PM_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Jan 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/DeepLearning.AI-AI_Agents-FF6F00?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Jan 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Google_Cloud-Gen_AI_Essentials-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Jan 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Vanderbilt-GenAI_SWE-black?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Rutgers-AI_Ethics-CC0000?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Mar 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/PMI-GenAI_for_PMs-red?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Glasgow-MBA_Essentials-purple?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/DeepLearning.AI-LLM_Fine_Tuning-FF6F00?style=for-the-badge&logoColor=white" /><br>
-<a href="https://www.credly.com/users/vikas-sahani.e0a347d7/badges">
-<img src="https://img.shields.io/badge/Verify-✓-success?style=flat-square&logo=checkmarx" />
-</a><br>
-<sub><b>Feb 2025</b></sub>
-</td>
-<td align="center" width="20%">
-<!-- Empty cell for grid alignment -->
-</td>
-</tr>
-</table>
-
-<!-- Certification Timeline -->
-<!-- FIXED: Changed Mermaid theme to 'base' -->
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','fontSize':'14px'}}}%%
-gantt
-    title 2025 Certification Roadmap
-    dateFormat YYYY-MM
-    section Product Management
-    IBM AI Product Manager      :done, 2025-01, 30d
-    Google PM Professional      :done, 2025-01, 30d
-    PMI GenAI for PMs          :done, 2025-02, 30d
-    section AI/ML Technical
-    DeepLearning.AI Agents     :done, 2025-01, 30d
-    Google Cloud Gen AI        :done, 2025-01, 30d
-    LLM Fine-tuning           :done, 2025-02, 30d
-    section Leadership & Ethics
-    Glasgow MBA Essentials     :done, 2025-02, 60d
-    Rutgers AI Ethics         :done, 2025-03, 30d
-    Vanderbilt GenAI SWE      :done, 2025-02, 30d
-```
-
-### **Certification Summary**
-
-<img src="https://img.shields.io/badge/Total_Certifications-9-success?style=for-the-badge&logo=checkmarx" />
-<img src="https://img.shields.io/badge/Institutions-6-blue?style=for-the-badge&logo=graduation-cap" />
-<img src="https://img.shields.io/badge/Completion_Rate-100%25-brightgreen?style=for-the-badge&logo=target" />
-
-</div>
-
----
-
 ## 💼 Enterprise Simulation Portfolio
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+| Company | Role | Key Skills | Deliverables |
+|:--------|:-----|:-----------|:-------------|
+| **Electronic Arts** | Mobile Gaming Analytics | Product Analytics, A/B Testing, KPI Definition | Feature Roadmap, Monetization Strategy |
+| **JPMorgan Chase** | Software Engineering | Java, Kafka, System Architecture | Real-time Pipeline, Performance Report |
+| **AWS** | Solutions Architecture | Cloud Design, Cost Optimization, Security | Scalable Web App, Infrastructure-as-Code |
 
-### 🎮 Electronic Arts
-**Mobile Gaming Analytics**
-
-<img src="https://img.shields.io/badge/Electronic_Arts-000000?style=for-the-badge&logo=ea&logoColor=white" />
-
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Feature Impact Analysis
-    "User Engagement +25%" : 45
-    "Retention Rate +18%" : 35
-    "ARPU Growth +12%" : 20
-```
-
-**Skills Applied:**
-- Product Analytics & KPI Definition
-- A/B Testing Framework Design
-- User Segmentation & Cohort Analysis
-- Revenue Optimization Modeling
-
-**Deliverables:**
-- Feature Prioritization Roadmap
-- Monetization Strategy Framework
-- User Journey Optimization Plan
-
+<br>
 <a href="https://www.theforage.com/profile">
-<img src="https://img.shields.io/badge/Certificate-Verify-success?style=flat-square&logo=checkmarx" />
+<img src="https://img.shields.io/badge/View_All_Certificates-Verify-success?style=for-the-badge&logo=checkmarx" />
 </a>
-
-</td>
-<td width="33%" align="center">
-
-### 🏦 JPMorgan Chase
-**Software Engineering**
-
-<img src="https://img.shields.io/badge/JPMorgan_Chase-0077B5?style=for-the-badge&logoColor=white" />
-
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Technical Contribution
-    "Kafka Streams" : 40
-    "Java Backend" : 35
-    "Performance Optimization" : 25
-```
-
-**Skills Applied:**
-- Enterprise Java Development
-- Apache Kafka Stream Processing
-- System Architecture Design
-- Code Debugging & Optimization
-
-**Deliverables:**
-- Real-time Data Pipeline
-- Performance Benchmarking Report
-- Technical Documentation
-
-<a href="https://www.theforage.com/profile">
-<img src="https://img.shields.io/badge/Certificate-Verify-success?style=flat-square&logo=checkmarx" />
-</a>
-
-</td>
-<td width="33%" align="center">
-
-### ☁️ Amazon Web Services
-**Solutions Architecture**
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Architecture Components
-    "Compute & Scaling" : 35
-    "Storage & Database" : 30
-    "Security & Networking" : 35
-```
-
-**Skills Applied:**
-- Cloud Infrastructure Design
-- Cost Optimization Strategies
-- High Availability Architecture
-- Security Best Practices
-
-**Deliverables:**
-- Scalable Web Application Design
-- Cost Analysis & Forecasting
-- Infrastructure-as-Code Templates
-
-<a href="https://www.theforage.com/profile">
-<img src="https://img.shields.io/badge/Certificate-Verify-success?style=flat-square&logo=checkmarx" />
-</a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -870,23 +647,6 @@ timeline
 - 20K+ community followers
 
 </td>
-</tr>
-</table>
-
-### **Active Development Status**
-
-| Project | Status | Progress | Next Milestone |
-|:--------|:------:|:--------:|:---------------|
-| **CharacterCraft Pro** | 🟢 Active | <img src="https://progress-bar.xyz/75/?width=150&color=2ecc71" /> | Public Beta Launch |
-| **MoatMetrics** | 🟢 Active | <img src="https://progress-bar.xyz/85/?width=150&color=3498db" /> | Beta Customer Onboarding |
-| **KrishiSahayak** | 🟡 Testing | <img src="https://progress-bar.xyz/60/?width=150&color=f39c12" /> | Rural Field Pilots |
-| **AI Interview Simulator** | 🟢 Live | <img src="https://progress-bar.xyz/95/?width=150&color=1abc9c" /> | Enterprise Integration |
-| **EduVault** | 🟢 POC Complete | <img src="https://progress-bar.xyz/80/?width=150&color=9b59b6" /> | Government Partnership |
-
-</div>
-
----
-
 ## 🌟 What Sets My Work Apart
 
 <div align="center">
