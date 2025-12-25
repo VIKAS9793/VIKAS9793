@@ -41,8 +41,6 @@
 </tr>
 </table>
 
-<!-- Real-time Stats Dashboard -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=VIKAS9793&data=followers,repositories,stars,commits&theme=radical" alt="GitHub Stats Widget"/>
 
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Product+Manager+%2B+Technical+Builder;4%2B+Years+Finance+%E2%86%92+AI+Product+Leadership;Building+Offline-First+AI+for+Rural+India;From+Strategy+to+Scalable+MVP+Delivery)](https://git.io/typing-svg)
@@ -220,9 +218,6 @@ Offline-first AI for underserved communities and rural markets
 
 ### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
 
-<a href="https://github.com/VIKAS9793/EduVault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=EduVault&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
 
 **Offline-First Educational Platform**
 
