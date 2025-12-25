@@ -218,7 +218,8 @@ Offline-first AI for underserved communities and rural markets
 
 ### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
 
-[![Stars](https://img.shields.io/github/stars/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=FFD700)](https://github.com/VIKAS9793/EduVault)\r\n[![Forks](https://img.shields.io/github/forks/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/VIKAS9793/EduVault)\r\n
+[![Stars](https://img.shields.io/github/stars/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=FFD700)](https://github.com/VIKAS9793/EduVault)
+[![Forks](https://img.shields.io/github/forks/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/VIKAS9793/EduVault)
 
 **Offline-First Educational Platform**
 
@@ -873,47 +874,7 @@ Active in AI/ML communities, mentoring aspiring product managers
 </tr>
 </table>
 
-### **📧 Open for Opportunities**
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-**💼 AI Product Consulting**
-
-Strategic advisory for AI/ML product development and GTM strategy
-
-<a href="mailto:vikassahani17@gmail.com">
-<img src="https://img.shields.io/badge/Get_in_Touch-success?style=for-the-badge" />
-</a>
-
-</td>
-<td width="33%" align="center">
-
-**🎤 Speaking Engagements**
-
-Product management, AI ethics, accessible technology, career transitions
-
-<a href="mailto:vikassahani17@gmail.com">
-<img src="https://img.shields.io/badge/Book_a_Talk-blue?style=for-the-badge" />
-</a>
-
-</td>
-<td width="33%" align="center">
-
-**🤝 Technical Partnerships**
-
-Collaborative projects in AI for social good and underserved markets
-
-<a href="mailto:vikassahani17@gmail.com">
-<img src="https://img.shields.io/badge/Collaborate-orange?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ### 🌍 Mission Statement
 
