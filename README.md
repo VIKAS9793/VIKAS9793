@@ -112,13 +112,7 @@ Offline-first AI for underserved communities and rural markets
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=flat-square&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Architecture Innovation
-    "Modular Design" : 35
-    "DPDP Compliance" : 30
-    "HITL Workflow" : 35
-```
+![Modular](https://img.shields.io/badge/Modular_Design-35%25-2ecc71?style=flat-square) ![DPDP](https://img.shields.io/badge/DPDP_Compliance-30%25-3498db?style=flat-square) ![HITL](https://img.shields.io/badge/HITL_Workflow-35%25-9b59b6?style=flat-square)
 
 **🎯 Product Vision:** Sovereign-by-design AI for government departments, 100% offline  
 **💡 Innovation:** Zero cloud dependencies, DPDP Act 2023 native governance  
@@ -142,13 +136,7 @@ pie title Architecture Innovation
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Innovation Distribution
-    "Prompt Protocol Engine" : 40
-    "Creative Studio" : 35
-    "Fusion System" : 25
-```
+![Prompt](https://img.shields.io/badge/Prompt_Protocol-40%25-e74c3c?style=flat-square) ![Studio](https://img.shields.io/badge/Creative_Studio-35%25-f39c12?style=flat-square) ![Fusion](https://img.shields.io/badge/Fusion_System-25%25-1abc9c?style=flat-square)
 
 **🎯 Product Vision:** Solving critical character consistency in AI-generated imagery  
 **💡 Innovation:** Deterministic "Prompt Protocol Engine" for reproducible outputs  
@@ -172,13 +160,7 @@ pie title Innovation Distribution
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Revenue Model
-    "Subscription MRR" : 60
-    "Enterprise Licenses" : 30
-    "Professional Services" : 10
-```
+![MRR](https://img.shields.io/badge/Subscription_MRR-60%25-2ecc71?style=flat-square) ![Enterprise](https://img.shields.io/badge/Enterprise-30%25-3498db?style=flat-square) ![Services](https://img.shields.io/badge/Services-10%25-95a5a6?style=flat-square)
 
 **🎯 Business Impact:** $12B serviceable addressable market (SAM)  
 **⚙️ Tech Stack:** Python, FastAPI, Pandas, SQLAlchemy, TimescaleDB  
@@ -202,13 +184,7 @@ pie title Revenue Model
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4438?style=flat-square&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Feature Priority
-    "Offline RAG" : 45
-    "Voice Interface" : 30
-    "P2P Knowledge Sharing" : 25
-```
+![RAG](https://img.shields.io/badge/Offline_RAG-45%25-27ae60?style=flat-square) ![Voice](https://img.shields.io/badge/Voice_Interface-30%25-e67e22?style=flat-square) ![P2P](https://img.shields.io/badge/P2P_Share-25%25-8e44ad?style=flat-square)
 
 **🌾 Mission:** AI-powered advisory for Indian farmers in low-connectivity regions  
 **📱 Innovation:** 100% offline operation with local RAG and P2P knowledge sharing  
@@ -230,13 +206,7 @@ pie title Feature Priority
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-412991?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title User Segments
-    "Tech Candidates" : 50
-    "Enterprise HR" : 30
-    "Educational Institutions" : 20
-```
+![Tech](https://img.shields.io/badge/Tech_Candidates-50%25-3498db?style=flat-square) ![HR](https://img.shields.io/badge/Enterprise_HR-30%25-e74c3c?style=flat-square) ![Edu](https://img.shields.io/badge/Education-20%25-f1c40f?style=flat-square)
 
 **🎯 Achievement:** 3-month enterprise pilot secured  
 **🔒 Architecture:** Privacy-first with LangGraph state management, local LLaMA inference  
@@ -260,13 +230,7 @@ pie title User Segments
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie title Feature Priority
-    "Offline Operation" : 40
-    "Voice Interface" : 30
-    "NCERT Integration" : 30
-```
+![Offline](https://img.shields.io/badge/Offline_Op-40%25-27ae60?style=flat-square) ![Voice](https://img.shields.io/badge/Voice_UI-30%25-e67e22?style=flat-square) ![NCERT](https://img.shields.io/badge/NCERT-30%25-9b59b6?style=flat-square)
 
 **🌾 Mission:** Democratizing quality education for rural India with 100% offline operation  
 **📱 Innovation:** Voice-first interface with Hindi/English support, WCAG 2.1 AA compliant  
@@ -543,6 +507,11 @@ Product strategy combined with hands-on architectural expertise
 
 <!-- Trophy Showcase -->
 <img src="https://github-profile-trophy.vercel.app/?username=VIKAS9793&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
+
+</div>
+
+---
+
 ## 💼 Enterprise Simulation Portfolio
 
 <div align="center">
