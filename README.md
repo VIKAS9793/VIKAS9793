@@ -200,18 +200,18 @@ Offline-first AI for underserved communities and rural markets
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=ai-interviewer-langchain&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
-**Enterprise Interview Preparation Platform**
+**AI-Powered Technical Interview Platform**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3-412991?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=google&logoColor=white)
+![A2UI](https://img.shields.io/badge/A2UI-34A853?style=flat-square&logo=google&logoColor=white)
 
 ![Tech](https://img.shields.io/badge/Tech_Candidates-50%25-3498db?style=flat-square) ![HR](https://img.shields.io/badge/Enterprise_HR-30%25-e74c3c?style=flat-square) ![Edu](https://img.shields.io/badge/Education-20%25-f1c40f?style=flat-square)
 
-**🎯 Achievement:** 3-month enterprise pilot secured  
-**🔒 Architecture:** Privacy-first with LangGraph state management, local LLaMA inference  
-**💼 Success Metrics:** 85% user satisfaction, 40% improvement in interview performance  
-**🏢 Enterprise Features:** Role-specific scenarios, performance analytics, API integration
+**🎯 Achievement:** Multi-agent system with A2UI web interface (v4.7)  
+**🔒 Architecture:** Google ADK + A2A-ADK Bridge + Gemini 2.5 Flash  
+**💼 Features:** 6 specialist sub-agents, adaptive questions, code analysis  
+**🏢 Enterprise Ready:** Cloud Run deployment, session persistence
 
 </td>
 </tr>
