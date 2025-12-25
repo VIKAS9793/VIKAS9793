@@ -562,19 +562,16 @@ Product strategy combined with hands-on architectural expertise
 
 | Certification | Issuer | Date | Verification |
 |:--------------|:-------|:-----|:-------------|
-| **People Management Essentials** | Google | Nov 2025 | [Verify](https://www.linkedin.com/in/vikas-sahani-727420358/details/certifications/) |
-| **User Experience Design** | Georgia Tech | Oct 2025 | [Verify](https://www.linkedin.com/in/vikas-sahani-727420358/details/certifications/) |
-| **Project Management Professional** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **AI Essentials** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **Prompting Essentials** | Google | Aug 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **Predictive Project Management** | PMI | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **Gen AI for Project Managers** | PMI | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **AI Product Manager** | IBM | Jan 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **AI Agents in LangGraph** | DeepLearning.AI | Jan 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **GenAI for SWEs** | Vanderbilt | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **AI Ethics** | Rutgers | Mar 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **MBA Essentials** | Glasgow | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
-| **LLM Fine-Tuning** | DeepLearning.AI | Feb 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **5-Day AI Agents Intensive Course** | Kaggle / Google | Dec 2025 | [Verify](https://www.kaggle.com/vikassahani9793) |
+| **Google People Management Essentials** | Google / Coursera | Dec 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **Generative AI Leader (5 Courses)** | Google Cloud / Coursera | Dec 2025 | [Verify](https://coursera.org/verify/professional-cert/NVDRXRBUXENW) |
+| **IBM Product Manager (7 Courses)** | IBM / Coursera | Oct 2025 | [Verify](https://coursera.org/verify/professional-cert/OX1B2FKYEOYQ) |
+| **Introduction to User Experience Design** | Georgia Tech / Coursera | Oct 2025 | [Verify](https://coursera.org/verify/1GI5OWMBV255) |
+| **Machine Learning** | O.P. Jindal Global University / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/5RGUOWDEE1EQ) |
+| **Google AI Essentials (5 Courses)** | Google / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/5BLLP6FX4KSL) |
+| **Google Project Management (7 Courses)** | Google / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/professional-cert/6QP622NTFAXB) |
+| **Generative AI Software Engineering (4 Courses)** | Vanderbilt University / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/CPF085M9073W) |
+| **Introduction to Generative AI for Software Development** | DeepLearning.AI / Coursera | Dec 2025 | [Verify](https://coursera.org/verify/M9YFNIZLO9IP) |
 
 </div>
 
