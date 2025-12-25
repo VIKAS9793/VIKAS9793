@@ -218,9 +218,7 @@ Offline-first AI for underserved communities and rural markets
 
 ### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
 
-<a href="https://github.com/VIKAS9793/EduVault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=EduVault&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+[![Stars](https://img.shields.io/github/stars/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=FFD700)](https://github.com/VIKAS9793/EduVault)\r\n[![Forks](https://img.shields.io/github/forks/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/VIKAS9793/EduVault)\r\n
 
 **Offline-First Educational Platform**
 
@@ -497,8 +495,11 @@ Product strategy combined with hands-on architectural expertise
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKAS9793&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B6B&ring=4FC3F7&currStreakLabel=4FC3F7" width="100%" />
+<!-- GitHub Stats using reliable shields.io -->
+[![GitHub followers](https://img.shields.io/github/followers/VIKAS9793?style=for-the-badge&logo=github&label=Followers&color=00D9FF)](https://github.com/VIKAS9793)
+[![GitHub stars](https://img.shields.io/github/stars/VIKAS9793?style=for-the-badge&logo=github&label=Stars&color=FFD700)](https://github.com/VIKAS9793)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VIKAS9793&style=for-the-badge&color=blueviolet)
 
 </div>
 
