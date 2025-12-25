@@ -218,6 +218,9 @@ Offline-first AI for underserved communities and rural markets
 
 ### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
 
+<a href="https://github.com/VIKAS9793/EduVault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=EduVault&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 
 **Offline-First Educational Platform**
 
@@ -496,12 +499,6 @@ Product strategy combined with hands-on architectural expertise
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKAS9793&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B6B&ring=4FC3F7&currStreakLabel=4FC3F7" width="100%" />
-
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIKAS9793&theme=tokyonight" width="100%" />
-
-<!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=VIKAS9793&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
 
 </div>
 
