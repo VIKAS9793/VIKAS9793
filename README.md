@@ -2,9 +2,12 @@
 
 <div align="center">
 
-<!-- PROPERLY FIXED: Using AI/Product Manager themed animation from verified GitHub source -->
-<!-- This matches the professional tech/AI product management role -->
-<img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager">
+<!-- Dark/Light Mode Adaptive Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile_banner.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/profile_banner.jpg">
+  <img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager">
+</picture>
 
 <!-- Glassmorphic Profile Card -->
 <!-- FIXED: Converted Markdown headers to HTML inside table cells for consistent rendering -->
@@ -45,6 +48,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Product+Manager+%2B+Technical+Builder;4%2B+Years+Finance+%E2%86%92+AI+Product+Leadership;Building+Offline-First+AI+for+Rural+India;From+Strategy+to+Scalable+MVP+Delivery)](https://git.io/typing-svg)
 
 </div>
+
+> [!TIP]
+> **Open to AI Product Manager opportunities.** Building production-ready AI products with measurable business impact. [View Portfolio](https://vikas9793.github.io/) | [Connect on LinkedIn](https://linkedin.com/in/vikas-sahani-727420358)
 
 ---
 
