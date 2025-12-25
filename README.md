@@ -252,9 +252,9 @@ Offline-first AI for underserved communities and rural markets
 
 <div align="center">
 
-<!-- FIXED: Changed Mermaid theme from 'dark' to 'base' for better compatibility across GitHub light/dark modes -->
+<!-- Professional Journey Timeline with Soft Pastel Colors -->
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#333','lineColor':'#00D9FF'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#A8E6CF','secondaryColor':'#88D8B0','tertiaryColor':'#FFD3B6','primaryTextColor':'#2C3E50','secondaryTextColor':'#2C3E50','tertiaryTextColor':'#2C3E50','lineColor':'#5DADE2','cScale0':'#A8E6CF','cScale1':'#88D8B0','cScale2':'#FFD3B6','cScale3':'#FFEAA7','cScale4':'#DDA0DD'}}}%%
 timeline
     title Career Evolution: Finance → AI Product Leadership
     2021 : Banking Sector Entry
@@ -423,33 +423,33 @@ timeline
 
 <div align="center">
 
-<!-- Enhanced Product Development Cycle -->
-<!-- FIXED: Changed Mermaid theme to 'base' -->
+<!-- Enhanced Product Development Cycle with Soft Pastel Colors -->
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#e74c3c','primaryTextColor':'#333','secondaryTextColor':'#333','tertiaryTextColor':'#333','lineColor':'#00D9FF','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#A8E6CF','secondaryColor':'#88D8B0','tertiaryColor':'#FFD3B6','primaryTextColor':'#2C3E50','lineColor':'#5DADE2','fontSize':'16px'}}}%%
 flowchart TB
-    Start([🎯 Problem Discovery]) --> Research[📊 User Research<br/>+<br/>Market Analysis]
-    Research --> Strategy[🏗️ Product Strategy<br/>+<br/>Roadmapping]
-    Strategy --> Tech[⚙️ Technical<br/>Architecture]
-    Tech --> Sprint[⚡ Agile Development<br/>2-Week Sprints]
-    Sprint --> MVP[🚀 MVP Launch<br/>+<br/>Beta Testing]
-    MVP --> Metrics[📈 KPI Tracking<br/>+<br/>User Feedback]
+    Start([🎯 Problem Discovery]) --> Research[📊 User Research]
+    Research --> Strategy[🏗️ Product Strategy]
+    Strategy --> Tech[⚙️ Technical Architecture]
+    Tech --> Sprint[⚡ Agile Development]
+    Sprint --> MVP[🚀 MVP Launch]
+    MVP --> Metrics[📈 KPI Tracking]
     Metrics --> Optimize[🔄 Growth Optimization]
     Optimize --> Iterate{Continue?}
     Iterate -->|Yes| Research
     Iterate -->|Scale| Scale[💰 Market Expansion]
     
-    style Start fill:#e74c3c,stroke:#333,stroke-width:3px,color:#fff
-    style Research fill:#3498db,stroke:#333,stroke-width:3px,color:#fff
-    style Strategy fill:#2ecc71,stroke:#333,stroke-width:3px,color:#fff
-    style Tech fill:#f39c12,stroke:#333,stroke-width:3px,color:#fff
-    style Sprint fill:#9b59b6,stroke:#333,stroke-width:3px,color:#fff
-    style MVP fill:#1abc9c,stroke:#333,stroke-width:3px,color:#fff
-    style Metrics fill:#34495e,stroke:#333,stroke-width:3px,color:#fff
-    style Optimize fill:#e67e22,stroke:#333,stroke-width:3px,color:#fff
-    style Iterate fill:#c0392b,stroke:#333,stroke-width:3px,color:#fff
-    style Scale fill:#16a085,stroke:#333,stroke-width:3px,color:#fff
+    style Start fill:#FFB6C1,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Research fill:#87CEEB,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Strategy fill:#98FB98,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Tech fill:#FFEAA7,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Sprint fill:#DDA0DD,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style MVP fill:#98D8C8,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Metrics fill:#B8E0D2,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Optimize fill:#FFD3B6,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Iterate fill:#FFCCE5,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
+    style Scale fill:#A8E6CF,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
 ```
+
 
 
 
@@ -550,9 +550,9 @@ Product strategy combined with hands-on architectural expertise
 
 <div align="center">
 
-<!-- FIXED: Changed Mermaid theme to 'base' -->
+<!-- 2025 Roadmap with Soft Pastel Colors -->
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2ecc71','secondaryColor':'#3498db','tertiaryColor':'#f39c12'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#B8E0D2','secondaryColor':'#D6EADF','tertiaryColor':'#FFEAA7','primaryTextColor':'#2C3E50','secondaryTextColor':'#2C3E50','tertiaryTextColor':'#2C3E50','lineColor':'#74B9FF','cScale0':'#B8E0D2','cScale1':'#D6EADF','cScale2':'#FFEAA7','cScale3':'#FFD3B6'}}}%%
 timeline
     title 2025 Product Development Timeline
     section Q1 2025
