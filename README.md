@@ -2,22 +2,19 @@
 
 <div align="center">
 
-<!-- Dark/Light Mode Adaptive Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile_banner.jpg">
   <source media="(prefers-color-scheme: light)" srcset="assets/images/profile_banner.jpg">
   <img src="assets/images/profile_banner.jpg" width="100%" alt="Vikas Sahani - AI Product Manager">
 </picture>
 
-<!-- Glassmorphic Profile Card -->
-<!-- FIXED: Converted Markdown headers to HTML inside table cells for consistent rendering -->
 <table>
 <tr>
 <td width="35%" align="center">
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D9FF?style=for-the-badge&logoColor=white)](https://vikas9793.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D9FF?style=for-the-badge&logoColor=white)](https://myportfoliohubexpo.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikas-sahani-727420358)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikassahani17@gmail.com)
 
@@ -25,201 +22,103 @@
 <td width="65%" align="left">
 
 <h3><b>Vikas Sahani</b></h3>
-<h4>🎯 AI Product Manager | 🏗️ ML Systems Architect</h4>
+<h4>🎯 Associate Product Manager · AI Products &amp; Developer Tooling</h4>
 
 <p><b>💼 Current Role:</b> Virtual Relationship Manager @ Aditya Birla Capital<br>
-<b>💰 Portfolio:</b> ₹100 Crores+ Assets Under Management<br>
-<b>🎓 Education:</b> BSc Botany → Finance → AI Product Leadership<br>
-<b>📍 Location:</b> Mumbai, Maharashtra, India</p>
+<b>🏆 Latest:</b> AndroJack MCP — 530+ downloads in first week after launch<br>
+<b>🎓 Background:</b> 4+ years regulated banking → AI Product Leadership<br>
+<b>📍 Location:</b> Mumbai, India &nbsp;|&nbsp; Open to Relocation · Global Remote</p>
 
-
-
-<p><b>🎯 Mission:</b><br>
-<i>Building accessible AI products for underserved markets with measurable business impact</i></p>
+<p><i>Builder of trustworthy AI systems and developer platforms. Product-focused professional transitioning from regulated finance into AI product management — bridging business credibility with hands-on technical execution.</i></p>
 
 </td>
 </tr>
 </table>
 
-
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Product+Manager+%2B+Technical+Builder;4%2B+Years+Finance+%E2%86%92+AI+Product+Leadership;Building+Offline-First+AI+for+Rural+India;From+Strategy+to+Scalable+MVP+Delivery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Associate+Product+Manager+%7C+AI+Products;AndroJack+MCP+%E2%80%94+530%2B+Downloads+Week+1;Finance+%E2%86%92+AI+Product+Leadership;Product+Titans+National+Challenge+%E2%80%94+Rank+2)](https://git.io/typing-svg)
 
 </div>
 
 > [!TIP]
-> **Open to AI Product Manager opportunities.** Building production-ready AI products with measurable business impact. [View Portfolio](https://vikas9793.github.io/) | [Connect on LinkedIn](https://linkedin.com/in/vikas-sahani-727420358)
+> **Targeting Associate Product Manager — AI Products & Developer Tooling.** Open to relocation and global remote. [View Portfolio](https://myportfoliohubexpo.netlify.app) | [Connect on LinkedIn](https://linkedin.com/in/vikas-sahani-727420358)
 
 ---
 
-## 🚀 Professional Snapshot
+## 🚀 Featured AI Product Portfolio
+
+### 🤖 [AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp) — *Latest Project*
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🎯 Product Strategy**
-
-End-to-end AI/ML product development from ideation to GTM execution
-
-**95%** Product-Market Fit Score
-
-</td>
-<td width="25%" align="center">
-
-**🏗️ Technical Depth**
-
-Production-ready architectures with LangChain, RAG, and foundation models
-
-**90%** Code Coverage Standard
-
-</td>
-<td width="25%" align="center">
-
-**📊 Business Impact**
-
-₹100Cr+ AUM | 10% diversification boost via AI analytics
-
-**15%** YoY Growth
-
-</td>
-<td width="25%" align="center">
-
-**🌍 Social Mission**
-
-Offline-first AI for underserved communities and rural markets
-
-**$12B** TAM Addressed
-
-</td>
-</tr>
-</table>
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/i/VIKAS9793.androjack-vscode?label=VS%20Code%20Installs&style=for-the-badge&logo=visual-studio-code&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=VIKAS9793.androjack-vscode)
+[![npm](https://img.shields.io/npm/dw/androjack-mcp?label=npm%20weekly&style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/androjack-mcp)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/VIKAS9793.androjack-vscode?style=for-the-badge&color=00D9FF)](https://marketplace.visualstudio.com/items?itemName=VIKAS9793.androjack-vscode)
 
 </div>
 
+**Documentation-Grounded Android Engineering Agent** — an MCP server that intercepts AI code generation and forces it to query live official Android documentation before producing output, then validates every code block against 22 rules before returning it to the developer.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-000000?style=flat-square&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+| | |
+|---|---|
+| **🎯 Problem Solved** | AI coding assistants generate Android code from stale training data — wrong APIs, wrong versions, Play Store rejections |
+| **🏗️ Architecture** | Level 3 loop-back validation: doc-fetch gate → code generation → 22-rule validator → PASS/WARN/FAIL verdict |
+| **🔧 Tools** | 21 MCP tools covering Navigation 3, Material 3 Expressive, API 36 compliance, KMP, XR, Wear OS, on-device AI |
+| **📦 Distribution** | `npx androjack-mcp install` · VS Code Marketplace · Antigravity IDE Skills |
+| **📈 Traction** | **530+ downloads in first week** · 6 rapid updates shipped within 48 hours of launch |
+| **🎯 GTM** | Developer ecosystem research → IDE plugin + GitHub as primary acquisition channels |
+| **🌍 Compatible With** | Claude Desktop · Cursor · Windsurf · Kiro · Antigravity IDE |
+
 ---
 
-## 🏆 Featured AI Product Portfolio
+### 🏆 Product Titans — National Product Management Challenge · **Rank 2**
 
-<div align="center">
-**India's First Sovereign Document Intelligence Platform**
+*Hosted on Unstop | Organized by Book My Mentor*
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=flat-square&logoColor=white)
+Ranked 2nd nationally in a product strategy competition. Delivered a full product roadmap and growth strategy using JTBD analysis, user segmentation, and RICE prioritisation — presented to industry mentors and evaluators.
 
-![Modular](https://img.shields.io/badge/Modular_Design-35%25-2ecc71?style=flat-square) ![DPDP](https://img.shields.io/badge/DPDP_Compliance-30%25-3498db?style=flat-square) ![HITL](https://img.shields.io/badge/HITL_Workflow-35%25-9b59b6?style=flat-square)
+---
 
-**🎯 Product Vision:** Sovereign-by-design AI for government departments, 100% offline  
-**💡 Innovation:** Zero cloud dependencies, DPDP Act 2023 native governance  
-**📊 Market Stage:** Pilot-ready, District Collector deployment approved  
-**🔧 Features:** 95-98% OCR accuracy, Human-in-the-Loop review, modular scale (SQLite→PostgreSQL)
+### [🌾 KrishiSahayak+Gemma](https://github.com/VIKAS9793/KrishiSahayak_Gemma)
 
-**📈 Impact:** Protecting citizen data sovereignty for 1B+ Indians
+**Offline Agricultural AI Assistant**
 
-</td>
-<td width="50%" valign="top">
+![Gemma](https://img.shields.io/badge/Gemma_3n_E2B-FF6F00?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=flat-square&logoColor=white)
 
-### [�🎨 CharacterCraft Pro](https://github.com/VIKAS9793/charactercraft-pro)
+AI-powered crop disease advisory for 150M+ Indian farmers on 2GB RAM devices with no internet. 100% offline RAG, multilingual voice TTS, 4-bit quantized Gemma-3n E2B, compressed FAISS index, SQLite knowledge base.
 
-<a href="https://github.com/VIKAS9793/charactercraft-pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=charactercraft-pro&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+---
 
-**AI-Powered Character Consistency Platform**
+### [🎤 AI Interview Simulator](https://github.com/VIKAS9793/ai-interviewer-langchain)
+
+**Multi-Agent Technical Interview Platform**
+
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+6 specialist sub-agents, adaptive questioning, live code analysis. Built on Google ADK + A2A-ADK Bridge with Cloud Run deployment and session persistence.
+
+---
+
+### [🎨 CharacterCraft Pro](https://github.com/VIKAS9793/charactercraft-pro)
+
+**AI Character Consistency Platform**
 
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Prompt](https://img.shields.io/badge/Prompt_Protocol-40%25-e74c3c?style=flat-square) ![Studio](https://img.shields.io/badge/Creative_Studio-35%25-f39c12?style=flat-square) ![Fusion](https://img.shields.io/badge/Fusion_System-25%25-1abc9c?style=flat-square)
+Deterministic "Prompt Protocol Engine" for reproducible character consistency across AI-generated imagery. Multi-model fusion with version control for creative professionals.
 
-**🎯 Product Vision:** Solving critical character consistency in AI-generated imagery  
-**💡 Innovation:** Deterministic "Prompt Protocol Engine" for reproducible outputs  
-**📊 Market Stage:** Validation phase with creative professionals  
-**🔧 Features:** Multi-model fusion, progressive enhancement, version control
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📊 MoatMetrics](https://github.com/VIKAS9793/moatmetrics)
-
-<a href="https://github.com/VIKAS9793/moatmetrics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=moatmetrics&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-**Privacy-First MSP Analytics Platform**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-![MRR](https://img.shields.io/badge/Subscription_MRR-60%25-2ecc71?style=flat-square) ![Enterprise](https://img.shields.io/badge/Enterprise-30%25-3498db?style=flat-square) ![Services](https://img.shields.io/badge/Services-10%25-95a5a6?style=flat-square)
-
-**🎯 Business Impact:** $12B serviceable addressable market (SAM)  
-**⚙️ Tech Stack:** Python, FastAPI, Pandas, SQLAlchemy, TimescaleDB  
-**📈 GTM Strategy:** Product-led growth with freemium model  
-**💰 Projections:** $1M ARR target in Year 1
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🌾 KrishiSahayak+Gemma](https://github.com/VIKAS9793/KrishiSahayak_Gemma)
-
-<a href="https://github.com/VIKAS9793/KrishiSahayak_Gemma">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=KrishiSahayak_Gemma&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-**Offline Agricultural AI Assistant**
-
-![Gemma](https://img.shields.io/badge/Gemma_2B-FF6F00?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4438?style=flat-square&logoColor=white)
-
-![RAG](https://img.shields.io/badge/Offline_RAG-45%25-27ae60?style=flat-square) ![Voice](https://img.shields.io/badge/Voice_Interface-30%25-e67e22?style=flat-square) ![P2P](https://img.shields.io/badge/P2P_Share-25%25-8e44ad?style=flat-square)
-
-**🌾 Mission:** AI-powered advisory for Indian farmers in low-connectivity regions  
-**📱 Innovation:** 100% offline operation with local RAG and P2P knowledge sharing  
-**🎯 Target Market:** 150M+ rural farmers with limited internet access  
-**🔧 Architecture:** On-device inference, local vector DB, mesh networking
-
-</td>
-<td width="50%" valign="top">
-
-### [🎤 AI Interview Simulator](https://github.com/VIKAS9793/ai-interviewer-langchain)
-
-<a href="https://github.com/VIKAS9793/ai-interviewer-langchain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIKAS9793&repo=ai-interviewer-langchain&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-**AI-Powered Technical Interview Platform**
-
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=google&logoColor=white)
-![A2UI](https://img.shields.io/badge/A2UI-34A853?style=flat-square&logo=google&logoColor=white)
-
-![Tech](https://img.shields.io/badge/Tech_Candidates-50%25-3498db?style=flat-square) ![HR](https://img.shields.io/badge/Enterprise_HR-30%25-e74c3c?style=flat-square) ![Edu](https://img.shields.io/badge/Education-20%25-f1c40f?style=flat-square)
-
-**🎯 Achievement:** Multi-agent system with A2UI web interface (v4.7)  
-**🔒 Architecture:** Google ADK + A2A-ADK Bridge + Gemini 2.5 Flash  
-**💼 Features:** 6 specialist sub-agents, adaptive questions, code analysis  
-**🏢 Enterprise Ready:** Cloud Run deployment, session persistence
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### [🎓 EduVault](https://github.com/VIKAS9793/EduVault)
-
-[![Stars](https://img.shields.io/github/stars/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=FFD700)](https://github.com/VIKAS9793/EduVault)
-[![Forks](https://img.shields.io/github/forks/VIKAS9793/EduVault?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/VIKAS9793/EduVault)
 
 **Offline-First Educational Platform**
 
@@ -227,24 +126,7 @@ Offline-first AI for underserved communities and rural markets
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-![Offline](https://img.shields.io/badge/Offline_Op-40%25-27ae60?style=flat-square) ![Voice](https://img.shields.io/badge/Voice_UI-30%25-e67e22?style=flat-square) ![NCERT](https://img.shields.io/badge/NCERT-30%25-9b59b6?style=flat-square)
-
-**🌾 Mission:** Democratizing quality education for rural India with 100% offline operation  
-**📱 Innovation:** Voice-first interface with Hindi/English support, WCAG 2.1 AA compliant  
-**🎯 Target Market:** 150M+ students in low-connectivity regions, 10M+ disabled learners  
-**🔧 Architecture:** PWA with IndexedDB, Service Workers, Web Speech API, <200MB footprint
-
-</td>
-<td width="50%" valign="top">
-
-<!-- Empty cell for grid balance -->
-
-</td>
-</tr>
-</table>
-
-
-</div>
+Voice-first education for 150M+ rural students. 100% offline PWA, Hindi/English support, WCAG 2.1 AA compliant, <200MB footprint.
 
 ---
 
@@ -252,87 +134,41 @@ Offline-first AI for underserved communities and rural markets
 
 <div align="center">
 
-<!-- Professional Journey Timeline with Soft Pastel Colors -->
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#A8E6CF','secondaryColor':'#88D8B0','tertiaryColor':'#FFD3B6','primaryTextColor':'#2C3E50','secondaryTextColor':'#2C3E50','tertiaryTextColor':'#2C3E50','lineColor':'#5DADE2','cScale0':'#A8E6CF','cScale1':'#88D8B0','cScale2':'#FFD3B6','cScale3':'#FFEAA7','cScale4':'#DDA0DD'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#A8E6CF','secondaryColor':'#88D8B0','tertiaryColor':'#FFD3B6','primaryTextColor':'#2C3E50','secondaryTextColor':'#2C3E50','lineColor':'#5DADE2'}}}%%
 timeline
     title Career Evolution: Finance → AI Product Leadership
-    2021 : Banking Sector Entry
-         : Relationship Management
+    2021 : Banking — Relationship Management
          : Client Portfolio Building
-    2022 : Senior RM Promotion
-         : 80+ HNI Clients
+    2022 : Senior RM · 80+ HNI Clients
          : 15% Above Target
-    2023 : AI Transition Begins
+    2023 : AI Transition
          : IBM AI PM Certification
          : First AI Project Launch
     2024 : Aditya Birla Capital
-         : ₹100Cr+ AUM Management
+         : ₹100Cr+ AUM
          : AI Product Portfolio
-    2025 : AI Product Leadership
-         : 4 Production Projects
-         : Google & DeepLearning.AI Certs
+    2025-26 : Open-Source AI Products
+            : AndroJack MCP — VS Code Marketplace
+            : Antigravity IDE Skills Pack
 ```
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🏢 Current: Aditya Birla Capital**  
-*Virtual Relationship Manager*  
-**2024 - Present**
-
-📊 **Key Achievements:**
-- Manage ₹100 crores+ diversified portfolio
-- 10% increase in diversification via AI analytics
-- 25% efficiency boost through AI tool integration
-- Built internal AI-powered client insights dashboard
-
-</td>
-<td width="50%" align="center">
-
-**🏦 Previous: Banking Sector**  
-*Senior Relationship Manager*  
-**2021 - 2024**
-
-📈 **Key Achievements:**
-- 80+ HNI client portfolio management
-- 15% exceed acquisition goals (3 consecutive quarters)
-- 20% YoY AUM growth through strategic advisory
-- Pioneered data-driven client segmentation
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
-
-<!-- PROPERLY FIXED: Using tech stack/development themed animation from verified GitHub source -->
-<!-- This complements the AI Product Manager + Technical Builder role -->
-
-
-### **Core Technology Stack**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,gcp,kubernetes,postgresql,redis,git,linux&theme=dark" />
 
 <br><br>
 
-<!-- Proficiency Matrix -->
-<!-- FIXED: Standardized all badge styles to 'flat-square' for consistency -->
 <table>
 <tr>
-<th width="25%">Category</th>
-<th width="50%">Technologies</th>
+<th width="20%">Category</th>
+<th width="55%">Technologies</th>
 <th width="25%">Proficiency</th>
 </tr>
 <tr>
@@ -344,22 +180,17 @@ timeline
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </td>
-<td align="center">
-<img src="https://progress-bar.xyz/95/?title=Expert&width=120&color=2ecc71" />
-</td>
+<td align="center"><img src="https://progress-bar.xyz/95/?title=Expert&width=120&color=2ecc71" /></td>
 </tr>
 <tr>
 <td align="center"><b>📊 Product</b></td>
 <td>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white" />
-<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </td>
-<td align="center">
-<img src="https://progress-bar.xyz/92/?title=Advanced&width=120&color=3498db" />
-</td>
+<td align="center"><img src="https://progress-bar.xyz/92/?title=Advanced&width=120&color=3498db" /></td>
 </tr>
 <tr>
 <td align="center"><b>☁️ Cloud</b></td>
@@ -368,11 +199,8 @@ timeline
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 </td>
-<td align="center">
-<img src="https://progress-bar.xyz/85/?title=Proficient&width=120&color=f39c12" />
-</td>
+<td align="center"><img src="https://progress-bar.xyz/85/?title=Proficient&width=120&color=f39c12" /></td>
 </tr>
 <tr>
 <td align="center"><b>🔧 Backend</b></td>
@@ -381,145 +209,20 @@ timeline
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white" />
 </td>
-<td align="center">
-<img src="https://progress-bar.xyz/90/?title=Advanced&width=120&color=9b59b6" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>📱 Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://progress-bar.xyz/80/?title=Competent&width=120&color=e74c3c" />
-</td>
+<td align="center"><img src="https://progress-bar.xyz/90/?title=Advanced&width=120&color=9b59b6" /></td>
 </tr>
 <tr>
 <td align="center"><b>🗄️ Data</b></td>
 <td>
 <img src="https://img.shields.io/badge/ChromaDB-FF4438?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/FAISS-00A3E0?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" />
 </td>
-<td align="center">
-<img src="https://progress-bar.xyz/88/?title=Advanced&width=120&color=1abc9c" />
-</td>
+<td align="center"><img src="https://progress-bar.xyz/88/?title=Advanced&width=120&color=1abc9c" /></td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎯 Product Management Framework
-
-<div align="center">
-
-<!-- Enhanced Product Development Cycle with Soft Pastel Colors -->
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#A8E6CF','secondaryColor':'#88D8B0','tertiaryColor':'#FFD3B6','primaryTextColor':'#2C3E50','lineColor':'#5DADE2','fontSize':'16px'}}}%%
-flowchart TB
-    Start([🎯 Problem Discovery]) --> Research[📊 User Research]
-    Research --> Strategy[🏗️ Product Strategy]
-    Strategy --> Tech[⚙️ Technical Architecture]
-    Tech --> Sprint[⚡ Agile Development]
-    Sprint --> MVP[🚀 MVP Launch]
-    MVP --> Metrics[📈 KPI Tracking]
-    Metrics --> Optimize[🔄 Growth Optimization]
-    Optimize --> Iterate{Continue?}
-    Iterate -->|Yes| Research
-    Iterate -->|Scale| Scale[💰 Market Expansion]
-    
-    style Start fill:#FFB6C1,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Research fill:#87CEEB,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Strategy fill:#98FB98,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Tech fill:#FFEAA7,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Sprint fill:#DDA0DD,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style MVP fill:#98D8C8,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Metrics fill:#B8E0D2,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Optimize fill:#FFD3B6,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Iterate fill:#FFCCE5,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-    style Scale fill:#A8E6CF,stroke:#2C3E50,stroke-width:2px,color:#2C3E50
-```
-
-
-
-
-### **Core Product Principles**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🎯 Impact-First**
-
-Build for underserved markets with measurable social and business outcomes
-
-</td>
-<td width="25%" align="center">
-
-**📊 Data-Driven**
-
-Every decision backed by KPIs, OKRs, and user analytics
-
-</td>
-<td width="25%" align="center">
-
-**🔄 Agile Execution**
-
-Sprint-based delivery with continuous stakeholder alignment
-
-</td>
-<td width="25%" align="center">
-
-**💡 Technical Depth**
-
-Product strategy combined with hands-on architectural expertise
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Contribution Insights
-
-<div align="center">
-
-<!-- GitHub Stats using reliable shields.io -->
-[![GitHub followers](https://img.shields.io/github/followers/VIKAS9793?style=for-the-badge&logo=github&label=Followers&color=00D9FF)](https://github.com/VIKAS9793)
-[![GitHub stars](https://img.shields.io/github/stars/VIKAS9793?style=for-the-badge&logo=github&label=Stars&color=FFD700)](https://github.com/VIKAS9793)
-
-![Profile Views](https://komarev.com/ghpvc/?username=VIKAS9793&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-## 💼 Enterprise Simulation Portfolio
-
-<div align="center">
-
-| Company | Role | Key Skills | Deliverables |
-|:--------|:-----|:-----------|:-------------|
-| **Electronic Arts** | Mobile Gaming Analytics | Product Analytics, A/B Testing, KPI Definition | Feature Roadmap, Monetization Strategy |
-| **JPMorgan Chase** | Software Engineering | Java, Kafka, System Architecture | Real-time Pipeline, Performance Report |
-| **AWS** | Solutions Architecture | Cloud Design, Cost Optimization, Security | Scalable Web App, Infrastructure-as-Code |
-
-<br>
-<a href="https://www.theforage.com/profile">
-<img src="https://img.shields.io/badge/View_All_Certificates-Verify-success?style=for-the-badge&logo=checkmarx" />
-</a>
 
 </div>
 
@@ -531,314 +234,39 @@ Product strategy combined with hands-on architectural expertise
 
 | Certification | Issuer | Date | Verification |
 |:--------------|:-------|:-----|:-------------|
-| **5-Day AI Agents Intensive Course** | Kaggle / Google | Dec 2025 | [Verify](https://www.kaggle.com/vikassahani9793) |
-| **Google People Management Essentials** | Google / Coursera | Dec 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **5-Day AI Agents Intensive** | Kaggle / Google | Dec 2025 | [Verify](https://www.kaggle.com/vikassahani9793) |
 | **Generative AI Leader (5 Courses)** | Google Cloud / Coursera | Dec 2025 | [Verify](https://coursera.org/verify/professional-cert/NVDRXRBUXENW) |
-| **IBM Product Manager (7 Courses)** | IBM / Coursera | Oct 2025 | [Verify](https://coursera.org/verify/professional-cert/OX1B2FKYEOYQ) |
-| **Introduction to User Experience Design** | Georgia Tech / Coursera | Oct 2025 | [Verify](https://coursera.org/verify/1GI5OWMBV255) |
-| **Machine Learning** | O.P. Jindal Global University / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/5RGUOWDEE1EQ) |
-| **Google AI Essentials (5 Courses)** | Google / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/5BLLP6FX4KSL) |
+| **Google People Management Essentials** | Google / Coursera | Dec 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
+| **Intro to GenAI for Software Development** | DeepLearning.AI | Dec 2025 | [Verify](https://coursera.org/verify/M9YFNIZLO9IP) |
+| **IBM AI Product Manager (7 Courses)** | IBM / Coursera | Oct 2025 | [Verify](https://coursera.org/verify/professional-cert/OX1B2FKYEOYQ) |
+| **Principles of UX/UI Design** | Meta / Coursera | Oct 2025 | [Verify](https://www.credly.com/users/vikas-sahani.e0a347d7/badges) |
 | **Google Project Management (7 Courses)** | Google / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/professional-cert/6QP622NTFAXB) |
-| **Generative AI Software Engineering (4 Courses)** | Vanderbilt University / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/CPF085M9073W) |
-| **Introduction to Generative AI for Software Development** | DeepLearning.AI / Coursera | Dec 2025 | [Verify](https://coursera.org/verify/M9YFNIZLO9IP) |
+| **GenAI Software Engineering (4 Courses)** | Vanderbilt / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/CPF085M9073W) |
+| **Google AI Essentials (5 Courses)** | Google / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/specialization/5BLLP6FX4KSL) |
+| **Machine Learning** | O.P. Jindal / Coursera | Aug 2025 | [Verify](https://coursera.org/verify/5RGUOWDEE1EQ) |
 
 </div>
 
 ---
 
-## 🚀 Current Focus & 2025 Roadmap
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- 2025 Roadmap with Soft Pastel Colors -->
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#B8E0D2','secondaryColor':'#D6EADF','tertiaryColor':'#FFEAA7','primaryTextColor':'#2C3E50','secondaryTextColor':'#2C3E50','tertiaryTextColor':'#2C3E50','lineColor':'#74B9FF','cScale0':'#B8E0D2','cScale1':'#D6EADF','cScale2':'#FFEAA7','cScale3':'#FFD3B6'}}}%%
-timeline
-    title 2025 Product Development Timeline
-    section Q1 2025
-        CharacterCraft Pro : Market Validation
-                           : Beta User Acquisition
-                           : Product-Market Fit Testing
-        MoatMetrics : MVP Development Complete
-                    : Beta Launch Preparation
-                    : Early Adopter Outreach
-    section Q2 2025
-        CharacterCraft Pro : Public Launch
-                           : Marketing Campaign
-                           : Revenue Generation
-        KrishiSahayak : Field Testing Phase
-                      : Rural Deployment
-                      : Partnership Building
-    section Q3 2025
-        Enterprise AI Platform : Development Start
-                               : Technical Architecture
-                               : Pilot Customer Acquisition
-        Multi-language Support : Expansion to 5 Languages
-                               : Localization Framework
-    section Q4 2025
-        Market Leadership : Consulting Services Launch
-                          : Industry Conference Speaking
-                          : Open-source Framework Release
-```
-
-### **Quarterly Objectives**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Q1_2025-Advanced_Features-success?style=for-the-badge&logo=rocket" />
-
-**Product Milestones:**
-- ✅ CharacterCraft Pro - 500+ Beta Users
-- 🔄 MoatMetrics - MVP Launch
-- ⏳ KrishiSahayak - Technical Validation
-
-**Key Metrics:**
-- 15% WoW user growth
-- 85% user satisfaction score
-- 3 enterprise pilot contracts
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Q2_2025-Scale_&_Expansion-blue?style=for-the-badge&logo=chart-line" />
-
-**Product Milestones:**
-- 🚀 Public Launch - CharacterCraft
-- 🌍 Multi-language Support
-- 🤝 Rural Tech Partnerships
-
-**Key Metrics:**
-- $50K MRR target
-- 5,000+ active users
-- 3 strategic partnerships
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/H2_2025-Market_Leadership-orange?style=for-the-badge&logo=trophy" />
-
-**Product Milestones:**
-- 💼 AI Consulting Services
-- 📚 Open-source Frameworks
-- 🎤 Industry Thought Leadership
-
-**Key Metrics:**
-- $200K ARR across products
-- 10+ conference talks
-- 20K+ community followers
-
-</td>
-## 🌟 What Sets My Work Apart
-
-<div align="center">
-
-### **Comparative Advantage Framework**
-
-<table>
-<tr>
-<th width="50%">🚫 Traditional Approach</th>
-<th width="50%">✅ My AI Product Strategy</th>
-</tr>
-<tr>
-<td align="center">
-
-🎭 **Feature Factory Mindset**
-
-Building features without validation or business impact measurement
-
-</td>
-<td align="center">
-
-🎯 **Problem-First, Solution-Agnostic**
-
-Deep user research, validated business impact, measurable KPIs driving every decision
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-☁️ **Cloud-Only Deployment**
-
-Assumes high-speed internet, excludes 60% of global population from access
-
-</td>
-<td align="center">
-
-📱 **Offline-First, Accessible Design**
-
-100% offline operation, P2P knowledge sharing, low-resource optimization
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🤖 **Generic AI Integrations**
-
-OpenAI API wrappers with no domain-specific optimization or technical depth
-
-</td>
-<td align="center">
-
-🔬 **Domain-Specific Technical Depth**
-
-Custom RAG pipelines, fine-tuned models, deterministic protocols, production architecture
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🎨 **Prototype Demonstrations**
-
-Beautiful demos that break in production, no consideration for scale or deployment
-
-</td>
-<td align="center">
-
-🏗️ **Production-Ready MVP Delivery**
-
-Docker-based deployment, CI/CD pipelines, monitoring, security hardening, documentation
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-📊 **Standard GTM Strategies**
-
-Target already-served markets with well-funded competitors and marginal differentiation
-
-</td>
-<td align="center">
-
-🌍 **Underserved Market Penetration**
-
-Rural farmers, MSPs, emerging markets - $12B+ TAM with minimal competition
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-💼 **Pure PM or Pure Engineer**
-
-Either strategic with no technical depth, or technical with no business acumen
-
-</td>
-<td align="center">
-
-🎯 **Product + Technical Execution**
-
-End-to-end ownership: strategy, architecture, implementation, GTM, growth
-
-</td>
-</tr>
-</table>
-
-### **Core Differentiators**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🎯 Unique Background**
-
-Finance (4 years) → AI Product
-
-Rare combination of business acumen + technical execution
-
-</td>
-<td width="25%" align="center">
-
-**🌍 Social Impact Focus**
-
-Building for the 60% underserved by mainstream tech
-
-Mission-driven, profit-sustainable model
-
-</td>
-<td width="25%" align="center">
-
-**🏗️ Technical Credibility**
-
-Not just strategy docs - I build, deploy, and maintain production systems
-
-</td>
-<td width="25%" align="center">
-
-**📊 Metrics-Driven**
-
-Every feature tied to KPIs, every sprint measured, every decision data-backed
-
-</td>
-</tr>
-</table>
+[![GitHub followers](https://img.shields.io/github/followers/VIKAS9793?style=for-the-badge&logo=github&label=Followers&color=00D9FF)](https://github.com/VIKAS9793)
+[![GitHub stars](https://img.shields.io/github/stars/VIKAS9793?style=for-the-badge&logo=github&label=Stars&color=FFD700)](https://github.com/VIKAS9793)
+![Profile Views](https://komarev.com/ghpvc/?username=VIKAS9793&style=for-the-badge&color=blueviolet)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIKAS9793&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 Open Source Philosophy & Contributions
+## 📱 Connect
 
 <div align="center">
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIKAS9793&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Open%20Source%20Contribution%20Activity" width="100%" />
-
-### **Open Source Commitment**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🌍 Democratizing AI**
-
-Making AI accessible through open-source tools and educational content
-
-<img src="https://img.shields.io/badge/Philosophy-Open_Access-2ecc71?style=for-the-badge" />
-
-</td>
-<td width="33%" align="center">
-
-**📚 Knowledge Sharing**
-
-Helping PMs transition into AI product roles through documentation & guides
-
-<img src="https://img.shields.io/badge/Focus-Education-3498db?style=for-the-badge" />
-
-</td>
-<td width="33%" align="center">
-
-**🤝 Community Building**
-
-Active in AI/ML communities, mentoring aspiring product managers
-
-<img src="https://img.shields.io/badge/Impact-Mentorship-f39c12?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
-
-### **Contribution Areas**
-
-<img src="https://img.shields.io/badge/AI/ML-Tools_&_Frameworks-blueviolet?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Product-Management_Templates-orange?style=flat-square&logo=notion" />
-<img src="https://img.shields.io/badge/Documentation-Technical_Guides-blue?style=flat-square&logo=markdown" />
-<img src="https://img.shields.io/badge/Education-Tutorial_Content-green?style=flat-square&logo=youtube" />
-
-</div>
-
----
-
-## 📱 Connect & Collaborate
-
-<div align="center">
-
-<!-- Social Media Links with Enhanced Styling -->
 <table>
 <tr>
 <td align="center" width="20%">
@@ -848,21 +276,21 @@ Active in AI/ML communities, mentoring aspiring product managers
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://vikas9793.github.io/">
+<a href="https://myportfoliohubexpo.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /><br>
 <sub><b>Live Projects</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://androjack-web.netlify.app/">
+<img src="https://img.shields.io/badge/AndroJack-00D9FF?style=for-the-badge&logo=android&logoColor=white" /><br>
+<sub><b>Latest Project</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
 <a href="mailto:vikassahani17@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
 <sub><b>Direct Contact</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.kaggle.com/vikassahani9793">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /><br>
-<sub><b>Data Science</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
@@ -874,35 +302,16 @@ Active in AI/ML communities, mentoring aspiring product managers
 </tr>
 </table>
 
-
-
-### 🌍 Mission Statement
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+AI+products+that+bridge+the+digital+divide;Translating+complex+technical+capabilities+into+accessible+solutions;Creating+measurable+business+and+social+impact;From+Finance+to+AI+Product+Leadership+%E2%80%94+Engineering+Solutions+for+Scale" alt="Mission Statement" />
-
----
-
-### 📊 Profile Engagement Metrics
-
-<img src="https://komarev.com/ghpvc/?username=VIKAS9793&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/VIKAS9793?label=Followers&style=for-the-badge&color=blue&logo=github" />
-<img src="https://img.shields.io/github/stars/VIKAS9793?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" />
-
 </div>
 
 ---
 
-<!-- Animated Footer Wave -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20Together&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
 
 ### 💡 "Product Strategy + Technical Execution = Scalable AI Solutions"
 
-**🚀 Thank you for visiting! Open to collaboration, mentorship, and building impactful AI products together! 🌟**
-
----
-
-<sub>Last Updated: September 2025 | Built with ❤️ and AI | Licensed under MIT</sub>
+<sub>Last Updated: March 2026 | Open Source on <a href="https://github.com/VIKAS9793">GitHub</a> | MIT Licensed</sub>
 
 </div>
