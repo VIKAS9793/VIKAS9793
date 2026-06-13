@@ -80,7 +80,7 @@ Designed a concept for a Hyper-Personalized Learning & Skill Development platfor
 | **IRDAI Composite** | IRDAI | Regulatory |
 | **Certificate of Excellence — Runner-up, Product Titans** | Unstop / Book My Mentor | Jan 2026 · [Certificate](https://drive.google.com/file/d/1t3-i4P9xGt9ay9o0-aw6OgJIK9bz0o2v/view?usp=drivesdk) |
 | **5-Day AI Agents Intensive** | Kaggle / Google | Dec 2025 · [Verify](https://www.kaggle.com/vikassahani9793) |
-| **IBM AI Product Manager** (7 courses) | IBM / Coursera | Oct 2025 · [Verify](https://coursera.org/verify/professional-cert/OX1B2FKYEOYQ) |
+| **IBM AI Product Manager** (7 courses) | IBM / Coursera | Oct 2025 · [Verify](https://www.credly.com/badges/96f96305-c974-492e-8863-ddbe6507dd86) |
 | **Generative AI Leader** (5 courses) | Google Cloud / Coursera | Dec 2025 · [Verify](https://coursera.org/verify/professional-cert/NVDRXRBUXENW) |
 
 ---
