@@ -12,9 +12,10 @@
 
 | Project | Status | Verified Highlight |
 |---|---|---|
-| [AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp) | Live · v2.0.0 | npm + VS Code Marketplace + MCP Registry, 0 known vulnerabilities |
-| [Context Fabric](https://github.com/VIKAS9793/context-fabric) | Live · v1.2.2 | 1,794 lifetime npm downloads |
+| [AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp) | Live · v2.0.0 | 660 launch-window clones, 251 unique cloners, 0 known vulnerabilities |
+| [Context Fabric](https://github.com/VIKAS9793/context-fabric) | Live · v1.2.2 | Real npm distribution, live analytics dashboard *(figure below pending final check — see note)* |
 | [Pramiti OS](https://github.com/VIKAS9793/pramiti-os) | Beta / PoC | Human-verification gate as core design constraint |
+| [Dharitri](https://github.com/VIKAS9793/dharitri-agri-ai) | Pre-launch / Active Dev | 291 Kotlin files, 14 architecture docs, on-device Gemma 4 |
 | [VouchList](https://github.com/VIKAS9793/vouchlist) | Phase 0 | Real CI, WCAG 2.2 AA accessibility gates |
 | [Fintech Onboarding Clarity](https://github.com/VIKAS9793/Fintech-Onboarding-Clarity) | Case Study | Constraint-first UX discovery, Figma prototype |
 | [NorthStar Wealth Companion](https://github.com/VIKAS9793/northstar-wealth-ai) | Hackathon PoC | 158/158 tests passing, 7-layer governance pipeline |
@@ -39,6 +40,7 @@ AI coding assistants generate Android code from stale training data — wrong AP
 
 - Remediated 7 dependency vulnerabilities (3 high) to zero, validated against the full test suite before shipping
 - Compatible with Claude Desktop, Cursor, Windsurf, Kiro, VS Code, Antigravity IDE
+- Instrumented a GA4 behavioral funnel (discovery → evaluation → activation) to validate the launch, not just ship and hope: 660 GitHub clones from 251 unique cloners in the first 14 days — cloners exceeding visitors confirmed organic terminal-first (`npx`) adoption, with Reddit as the primary channel (74 referrals)
 - Full PRD, JTBD, personas, roadmap, and GTM strategy live in [`product-management/README.md`](https://github.com/VIKAS9793/AndroJack-mcp/tree/main/product-management) — the product thinking behind the tool, not just the tool
 
 ```mermaid
@@ -58,7 +60,7 @@ flowchart LR
 
 [![npm version](https://img.shields.io/npm/v/context-fabric?color=0ea5e9&style=flat-square)](https://npmjs.com/package/context-fabric) [![npm downloads](https://img.shields.io/npm/dt/context-fabric?color=0ea5e9&style=flat-square)](https://npmjs.com/package/context-fabric) [![CI](https://img.shields.io/github/actions/workflow/status/VIKAS9793/context-fabric/ci.yml?branch=main&color=10b981&style=flat-square&label=CI)](https://github.com/VIKAS9793/context-fabric/actions)
 
-**v1.2.2 · 1,794 lifetime npm downloads · officially listed in the MCP Registry**
+**v1.2.2 · officially listed in the MCP Registry** *(live npm download count shown in the badge above — not restated here as a static number, since it changes daily and a hardcoded figure would go stale immediately)*
 
 AI coding agents lose project context between sessions — developers manually rebuild it every time. I designed a five-engine architecture (WATCHER, ANCHOR, ROUTER, GOVERNOR, WEAVER) to capture project state automatically on every commit and deliver token-budgeted briefings without developer effort, and shipped a public analytics dashboard so adoption is measured, not asserted.
 
