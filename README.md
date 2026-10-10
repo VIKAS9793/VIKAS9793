@@ -1,8 +1,10 @@
 # Hi, I'm Vikas Sahani
 
-**I'm an AI-assisted builder from Mumbai, India. I love solving real business problems with the help of AI, and I turn those solutions into mixed reality games, Android apps and free tools for people who build software with AI.**
+**I'm a product builder from Mumbai, India. I use AI-assisted development to turn real business problems into working products: developer tools, Android apps and, because I love games, mixed reality games.**
 
-By day I work in finance. In my own time I run **NorthStar Studioz**, a one-person game studio, and build the apps and tools below with AI as my working partner.
+By day I work in wealth and banking. In my own time I build the projects below with AI as my working partner. I decide what to build and why; AI does much of the implementation, and I check what it produces.
+
+**Portfolio:** [vikas9793.github.io](https://vikas9793.github.io)
 
 ---
 
@@ -10,17 +12,11 @@ By day I work in finance. In my own time I run **NorthStar Studioz**, a one-pers
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **[NorthStar Studioz](https://northstarstudioz.space)** | An independent studio making hands-first mixed reality games for Meta Quest 3 and 3S. | First game in development |
 | **[AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp)** | Lets AI coding assistants check Android code against Google's official documentation before handing it to you. | Free and open source, version 2.0.0 |
 | **[Context Fabric](https://github.com/VIKAS9793/context-fabric)** | Gives AI coding assistants a memory of your project that stays correct as the code changes. | Free and open source, version 1.2.2 |
 | **[SubscribCHEK](https://subscribchek.netlify.app)** | Shows what your subscriptions really cost per year and helps you cancel them, with no bank login and no account. | Android app, in closed testing on Google Play |
 | **[AsanaPals](https://asanapals.space)** | A calm, offline wellness app where five animal companions help you move, rest, breathe and restart, with no scores or streaks. | Android app, in testing before its Google Play launch |
-
-### NorthStar Studioz
-
-A one-person mixed reality game studio, founded in October 2026. The first game is designed to be played seated, with your bare hands, on the real table in front of you. Details stay confidential until it is announced.
-
-→ [northstarstudioz.space](https://northstarstudioz.space)
+| **[NorthStar Studioz](https://northstarstudioz.space)** | My one-person studio for hands-first mixed reality games on Meta Quest 3 and 3S, started out of a passion for games. | First game in development |
 
 ### AndroJack MCP (open source)
 
@@ -60,22 +56,47 @@ Most wellness apps turn into one more thing you are failing at: scores, streaks,
 
 → [asanapals.space](https://asanapals.space)
 
+### Beyond products: games
+
+Products solve problems I see at work. Games are where I explore for the joy of it. NorthStar Studioz, founded in October 2026, is my way of learning how games are made. The first game is designed to be played seated, with your bare hands, on the real table in front of you. Details stay confidential until it is announced.
+
+→ [northstarstudioz.space](https://northstarstudioz.space)
+
 ---
 
-## Certifications and skills
+## Experience
 
-**IBM Product Manager Professional Certificate** (IBM, via Coursera)
-Product strategy · Product management lifecycle · Sprint planning · Stakeholder management · Value proposition
+Four and a half years in customer-facing wealth and banking roles. Talking to customers about money every day taught me where products lose people: unclear next steps, hidden costs and a lack of trust.
 
-**Google AI Professional Certificate** (Google, via Coursera)
-Prompt engineering · Responsible AI · AI acumen
+| Role | Where | When |
+| --- | --- | --- |
+| Virtual Relationship Manager | Aditya Birla Capital | Nov 2024 to present |
+| Personal Banker | HDFC Bank | Jan 2024 to Jul 2024 |
+| Sales Officer | IndusInd Bank | Sep 2021 to Nov 2023 |
+| Customer Service Officer, Phone Banking | ICICI Bank | Mar 2021 to Jun 2021 |
+
+At Aditya Birla Capital I manage a ₹200 Cr investment portfolio (90% retail, 10% HNI) and a 3,500-customer SIP book, and scaled monthly SIP mobilisation from ₹50K to ₹1L+. At IndusInd Bank I won the ACE Award for FY 2022-23.
+
+**Skills:** wealth and investment services · SIP growth and retention · goal-based portfolio review · customer discovery · mutual fund and protection cross-selling · AI-assisted analysis · CRM, KYC and AML
+
+**Education:** BSc, Mithibai College, University of Mumbai, 2012 to 2015
+
+---
+
+## Certifications
+
+- **IBM Product Manager Professional Certificate** (IBM, via Coursera): product strategy, product management lifecycle, sprint planning, stakeholder management, value proposition
+- **Google AI Professional Certificate** (Google, via Coursera): prompt engineering, responsible AI, AI acumen
+- **NISM Series V-A: Mutual Fund Distributor** (valid until October 2027)
+- **IRDAI Corporate Agent (Composite)** (valid until February 2028)
 
 ---
 
 ## Get in touch
 
-- Studio website: [northstarstudioz.space](https://northstarstudioz.space)
-- Email: [studioznorthstar@gmail.com](mailto:studioznorthstar@gmail.com)
+- Portfolio: [vikas9793.github.io](https://vikas9793.github.io)
+- Email: [vikassahani17@gmail.com](mailto:vikassahani17@gmail.com)
 - LinkedIn: [vikas-sahani](https://linkedin.com/in/vikas-sahani-727420358)
+- Studio: [northstarstudioz.space](https://northstarstudioz.space)
 
 *Mumbai, India*
