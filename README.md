@@ -96,7 +96,7 @@ At Aditya Birla Capital I manage a ₹200 Cr investment portfolio (90% retail, 1
 
 - Portfolio: [vikas9793.github.io](https://vikas9793.github.io)
 - Email: [vikassahani17@gmail.com](mailto:vikassahani17@gmail.com)
-- LinkedIn: [vikas-sahani](https://linkedin.com/in/vikas-sahani-727420358)
+- LinkedIn: [linkedin.com/in/vikas-sahani-727420358](https://www.linkedin.com/in/vikas-sahani-727420358)
 - Studio: [northstarstudioz.space](https://northstarstudioz.space)
 
 *Mumbai, India*
