@@ -12,19 +12,20 @@ By day I work in wealth and banking. In my own time I build the projects below w
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **[AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp)** | Lets AI coding assistants check Android code against Google's official documentation before handing it to you. | Free and open source, version 2.0.0 |
+| **[AndroJack MCP](https://github.com/VIKAS9793/AndroJack-mcp)** | Lets AI coding assistants check Android code against Google's official documentation before handing it to you. | Free and open source, version 2.1.0 |
 | **[Context Fabric](https://github.com/VIKAS9793/context-fabric)** | Gives AI coding assistants a memory of your project that stays correct as the code changes. | Free and open source, version 1.2.2 |
 | **[SubscribCHEK](https://subscribchek.netlify.app)** | Shows what your subscriptions really cost per year and helps you cancel them, with no bank login and no account. | Android app, in closed testing on Google Play |
 | **[AsanaPals](https://asanapals.space)** | A calm, offline wellness app where five animal companions help you move, rest, breathe and restart, with no scores or streaks. | Android app, in testing before its Google Play launch |
+| **[AgentCoSign](https://github.com/VIKAS9793/AgentCoSign)** | Lets an AI agent propose PayPal refunds while fixed rules decide, and a person co-signs the risky ones on their phone. | Latest. Open source, built for the PayPal AI Hackathon 2026, PayPal sandbox only |
 | **[NorthStar Studioz](https://northstarstudioz.space)** | My one-person studio for hands-first mixed reality games on Meta Quest 3 and 3S, started out of a passion for games. | First game in development |
 
 ### AndroJack MCP (open source)
 
-AI coding assistants often write Android code from outdated knowledge: deprecated APIs, wrong patterns, apps that Google Play rejects. AndroJack is a plug-in for AI assistants (built on a standard called [MCP](https://modelcontextprotocol.io)) that gives the assistant live access to official Android documentation and checks the code it writes against 28 rules before you see it.
+AI coding assistants often write Android code from outdated knowledge: deprecated APIs, wrong patterns, apps that Google Play rejects. AndroJack is a plug-in for AI assistants (built on a standard called [MCP](https://modelcontextprotocol.io)) that gives the assistant live access to official Android documentation and checks the code it writes against 34 rules before you see it.
 
-- 23 tools, available on [npm](https://www.npmjs.com/package/androjack-mcp) and the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=VIKAS9793.androjack-vscode)
+- 23 tools and 34 validation rules in version 2.1.0, available on [npm](https://www.npmjs.com/package/androjack-mcp) and the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=VIKAS9793.androjack-vscode)
 - Works with Claude Desktop, Cursor, Windsurf, VS Code Copilot, AWS Kiro, Google Antigravity and JetBrains AI
-- Install: `npx -y androjack-mcp@2.0.0 install`
+- Install: `npx -y androjack-mcp@2.1.0 install`
 
 → [github.com/VIKAS9793/AndroJack-mcp](https://github.com/VIKAS9793/AndroJack-mcp)
 
@@ -56,6 +57,16 @@ Most wellness apps turn into one more thing you are failing at: scores, streaks,
 
 → [asanapals.space](https://asanapals.space)
 
+### AgentCoSign (latest, open source, hackathon project)
+
+Handing refunds to an AI agent is all or nothing: leave it off and nothing is automated, switch it on and a tricked or mistaken request can move money nobody approved. AgentCoSign gives the agent no PayPal keys and lets it only propose. A fixed set of 18 rules, with no AI inside them, decides: small clean refunds go out on their own, larger ones wait for the merchant to approve with a fingerprint or face on their phone, and unsafe ones are refused. Every step is written to a signed record that shows if anything was changed afterwards.
+
+- Built for the PayPal AI Hackathon 2026, in Python
+- Runs only on PayPal's test sandbox with no real money, and is not production software. An independent project, not affiliated with PayPal
+- Live demo and a 2 minute 28 second video. Attacks typed live from a real phone found one real defect, which was fixed and tested again. The test sets are small and written by me
+
+→ [github.com/VIKAS9793/AgentCoSign](https://github.com/VIKAS9793/AgentCoSign) · [Live demo](https://agentcosign-demo.onrender.com) · [Watch the demo](https://youtu.be/MBnqli0L1aI)
+
 ### Beyond products: games
 
 Products solve problems I see at work. Games are where I explore for the joy of it. NorthStar Studioz, founded in October 2026, is my way of learning how games are made. The first game is designed to be played seated, with your bare hands, on the real table in front of you. Details stay confidential until it is announced.
@@ -66,7 +77,7 @@ Products solve problems I see at work. Games are where I explore for the joy of 
 
 ## Experience
 
-Four and a half years in customer-facing wealth and banking roles. Talking to customers about money every day taught me where products lose people: unclear next steps, hidden costs and a lack of trust.
+Nearly five years in customer-facing wealth and banking roles. Talking to customers about money every day taught me where products lose people: unclear next steps, hidden costs and a lack of trust.
 
 | Role | Where | When |
 | --- | --- | --- |
